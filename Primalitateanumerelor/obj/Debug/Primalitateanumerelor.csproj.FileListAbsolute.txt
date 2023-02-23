@@ -1,0 +1,11 @@
+C:\Users\Capata Bianca\Desktop\IX F\Primalitateanumerelor\bin\Debug\Primalitateanumerelor.exe.config
+C:\Users\Capata Bianca\Desktop\IX F\Primalitateanumerelor\bin\Debug\Primalitateanumerelor.exe
+C:\Users\Capata Bianca\Desktop\IX F\Primalitateanumerelor\bin\Debug\Primalitateanumerelor.pdb
+C:\Users\Capata Bianca\Desktop\IX F\Primalitateanumerelor\obj\Debug\Primalitateanumerelor.csproj.AssemblyReference.cache
+C:\Users\Capata Bianca\Desktop\IX F\Primalitateanumerelor\obj\Debug\Primalitateanumerelor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Capata Bianca\Desktop\IX F\Primalitateanumerelor\obj\Debug\Primalitateanumerelor.Form1.resources
+C:\Users\Capata Bianca\Desktop\IX F\Primalitateanumerelor\obj\Debug\Primalitateanumerelor.Properties.Resources.resources
+C:\Users\Capata Bianca\Desktop\IX F\Primalitateanumerelor\obj\Debug\Primalitateanumerelor.csproj.GenerateResource.cache
+C:\Users\Capata Bianca\Desktop\IX F\Primalitateanumerelor\obj\Debug\Primalitateanumerelor.csproj.CoreCompileInputs.cache
+C:\Users\Capata Bianca\Desktop\IX F\Primalitateanumerelor\obj\Debug\Primalitateanumerelor.exe
+C:\Users\Capata Bianca\Desktop\IX F\Primalitateanumerelor\obj\Debug\Primalitateanumerelor.pdb
