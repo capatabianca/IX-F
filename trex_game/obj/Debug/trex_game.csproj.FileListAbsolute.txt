@@ -1,0 +1,11 @@
+C:\Users\Capata Bianca\Desktop\IX F\trex_game\obj\Debug\trex_game.csproj.AssemblyReference.cache
+C:\Users\Capata Bianca\Desktop\IX F\trex_game\obj\Debug\trex_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Capata Bianca\Desktop\IX F\trex_game\obj\Debug\trex_game.Form1.resources
+C:\Users\Capata Bianca\Desktop\IX F\trex_game\obj\Debug\trex_game.Properties.Resources.resources
+C:\Users\Capata Bianca\Desktop\IX F\trex_game\obj\Debug\trex_game.csproj.GenerateResource.cache
+C:\Users\Capata Bianca\Desktop\IX F\trex_game\obj\Debug\trex_game.csproj.CoreCompileInputs.cache
+C:\Users\Capata Bianca\Desktop\IX F\trex_game\bin\Debug\trex_game.exe.config
+C:\Users\Capata Bianca\Desktop\IX F\trex_game\bin\Debug\trex_game.exe
+C:\Users\Capata Bianca\Desktop\IX F\trex_game\bin\Debug\trex_game.pdb
+C:\Users\Capata Bianca\Desktop\IX F\trex_game\obj\Debug\trex_game.exe
+C:\Users\Capata Bianca\Desktop\IX F\trex_game\obj\Debug\trex_game.pdb

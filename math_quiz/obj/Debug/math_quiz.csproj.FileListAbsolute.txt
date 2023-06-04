@@ -1,0 +1,11 @@
+C:\Users\Capata Bianca\Desktop\IX F\math_quiz\bin\Debug\math_quiz.exe.config
+C:\Users\Capata Bianca\Desktop\IX F\math_quiz\bin\Debug\math_quiz.exe
+C:\Users\Capata Bianca\Desktop\IX F\math_quiz\bin\Debug\math_quiz.pdb
+C:\Users\Capata Bianca\Desktop\IX F\math_quiz\obj\Debug\math_quiz.csproj.AssemblyReference.cache
+C:\Users\Capata Bianca\Desktop\IX F\math_quiz\obj\Debug\math_quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Capata Bianca\Desktop\IX F\math_quiz\obj\Debug\math_quiz.Form1.resources
+C:\Users\Capata Bianca\Desktop\IX F\math_quiz\obj\Debug\math_quiz.Properties.Resources.resources
+C:\Users\Capata Bianca\Desktop\IX F\math_quiz\obj\Debug\math_quiz.csproj.GenerateResource.cache
+C:\Users\Capata Bianca\Desktop\IX F\math_quiz\obj\Debug\math_quiz.csproj.CoreCompileInputs.cache
+C:\Users\Capata Bianca\Desktop\IX F\math_quiz\obj\Debug\math_quiz.exe
+C:\Users\Capata Bianca\Desktop\IX F\math_quiz\obj\Debug\math_quiz.pdb
